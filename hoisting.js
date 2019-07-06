@@ -31,7 +31,7 @@ console.log(foo()); // 8  // bar function will be hoisted one after other
     at Object.<anonymous> (/Users/malav/Documents/srm/projects/test-js/test.js:23:13)
     at Module._compile (internal/modules/cjs/loader.js:799:30)
     
-    Exp - function declaration will be hoisted and variable declaration will simply ignored and simple assignmentt will happen,
+    Exp - function declaration will be hoisted and variable declaration hoisting will simply ignored and simple assignmentt will happen,
     in hoisted variable , hence the error.
     
     
